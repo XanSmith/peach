@@ -14,7 +14,9 @@ Health and Fitness application to log and review habits.
 X.Smith
 </author>
 
+<!-- 
 <preference name="phonegap-version" value="2.2.0" />
+-->
 
 <!-- Icons -->
 
